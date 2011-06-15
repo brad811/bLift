@@ -5,6 +5,4 @@ description: Elevate!
 authors:
   - Brad811
 commands:
-  zone:
-    description: Get the name of your current zone.
-    usage: /<command>
+  
