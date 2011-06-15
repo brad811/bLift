@@ -1,0 +1,10 @@
+name: bLift
+main: com.bradsproject.BradleyJewell.bLift.bLift
+version: 1.0
+description: Elevate!
+authors:
+  - Brad811
+commands:
+  zone:
+    description: Get the name of your current zone.
+    usage: /<command>
